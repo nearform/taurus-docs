@@ -1,0 +1,8 @@
+- [Home](/)
+  - [Taurus Overview](?id=Taurus-Overview)
+  - [Taurus on GCP](/gcp/)
+  - [Taurus on AWS](/aws/)
+    - [Quick Start Guide](/aws/quick-start/)
+    - [Install Kubernetes Add-Ons](/aws/helm/)
+  - [Taurus on Azure](/azure/)
+  - [Contribute to Taurus](/contributing/)

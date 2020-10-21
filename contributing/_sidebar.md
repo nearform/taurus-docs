@@ -1,0 +1,8 @@
+- [Home](/)
+  - [Taurus Overview](?id=Taurus-Overview)
+  - [Taurus on GCP](/gcp/)
+  - [Taurus on AWS](/aws/)
+  - [Taurus on Azure](/azure/)
+  - [Contribute to Taurus](/contributing/)
+    - [Code](/contributing/?id=code)
+    - [Documentation](/contributing/?id=documentation)
