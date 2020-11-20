@@ -8,7 +8,7 @@ Deploy your web application to Azure with ease using __Taurus__.
 The diagram below displays Taurus high-level architecture. The backend consists of a Virtual Private Cloud (VPC) containing an Application Load Balancer (ALB) and Amazon Elastic Kubernetes Service (EKS). The frontend consists of CloudFront and Amazon Simple Storage Service (S3).
 
 ![High level architecture][high-level-architecture]
-Fig.1 Taurus High-Level Architecture
+
 
 Taurus provides you with the following capabilities:
 - Provision Azure.
