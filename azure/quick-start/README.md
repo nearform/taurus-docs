@@ -9,7 +9,6 @@ Prerequisites
  2. Terraform 0.12.X or higher  
     [Download](https://releases.hashicorp.com/terraform/)  
     [Install Guide](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/azure-get-started)
-3. SSH Public key to install on nodes  
 
 Authenticating to Azure CLI using username/password  
 ---
@@ -122,7 +121,3 @@ K8_CLUSTER_NAME
   "managementEndpointUrl": "https://management.core.windows.net/"
 }
 ```
-Change helm charts
----
-
-You will have to change ```app/frontend/values.yaml``` and ```app/backend/values.yaml```  files with the new ACR FQDN so GHA will override with the correct path.
